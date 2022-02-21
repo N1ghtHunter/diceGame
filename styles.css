@@ -7,14 +7,16 @@
 .dice {
   text-align: center;
   display: inline-block;
-
+  margin-top: 50px;
 }
-
+.hidden{
+  display: none;
+}
 body {
   background-color: #393E46;
 }
 
-button {
+button,h1 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
